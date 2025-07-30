@@ -5,7 +5,8 @@
 - LinkedIn: [www.linkedin.com/in/alyson-yan-sampaio-fernandes-92b78235b](https://www.linkedin.com/in/alyson-yan-sampaio-fernandes-92b78235b)
 
 ## Tecnologias que uso:
-![Python](https://github.com/Alyson-Yan/Alyson-Yan/blob/main/Python-logo-notext.svg.png)
+<img src="https://github.com/Alyson-Yan/Alyson-Yan/blob/main/Python-logo-notext.svg.png" width="200"/>
+
 
 
 ## Principais Linguagens:
