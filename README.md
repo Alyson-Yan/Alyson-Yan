@@ -8,7 +8,6 @@
 <img src="https://github.com/Alyson-Yan/Alyson-Yan/blob/main/Python-logo-notext.svg.png" width="50"/>
 
 
-
 ## Principais Linguagens:
 ![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alyson-Yan&langs_count=10&theme=dark&layout=compact)
 
