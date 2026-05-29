@@ -10,12 +10,6 @@
 
 ## Alyson Yan 🕷️💻
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Python+para+automa%C3%A7%C3%A3o+e+dados;Front-End+com+HTML%2C+CSS+e+JavaScript;Suporte+T%C3%A9cnico+%7C+Hardware+%7C+Planilhas" alt="Typing SVG"/>
-
-</div>
-
 ---
 
 <div align="center">
