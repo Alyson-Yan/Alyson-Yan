@@ -12,17 +12,7 @@ Sou estudante de **Ciência da Computação** e trabalho com tecnologia de forma
 
 Gosto de resolver problemas reais, organizar processos bagunçados e transformar tarefas manuais em sistemas mais claros e funcionais.
 
----
 
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alyson-Yan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyson-Yan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true">
-
-</div>
-
----
 
 ## Tecnologias que uso
 
