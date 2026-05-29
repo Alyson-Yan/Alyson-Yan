@@ -8,6 +8,16 @@
 
 ---
 
+## Alyson Yan 🕷️💻
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Python+para+automa%C3%A7%C3%A3o+e+dados;Front-End+com+HTML%2C+CSS+e+JavaScript;Suporte+T%C3%A9cnico+%7C+Hardware+%7C+Planilhas" alt="Typing SVG"/>
+
+</div>
+
+---
+
 <div align="center">
 
 <a href="https://github.com/Alyson-Yan">
@@ -22,47 +32,45 @@
 
 ---
 
-<div align="center">
-
-<img height="165em" src="https://streak-stats.demolab.com?user=Alyson-Yan&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## Sobre mim
 
-* 🎓 Estudante de **Ciência da Computação**
-* 💻 Interesse em **Front-End, Python, automação e suporte técnico**
-* 📊 Trabalho com projetos envolvendo **planilhas, dados, sistemas e organização de processos**
-* 🛠️ Curto também **hardware, manutenção, redes e infraestrutura**
-* 🤖 Tenho interesse em **robótica educacional, Arduino e pensamento computacional**
-* 🕷️ Fã do **Homem-Aranha**, da ideia de responsabilidade e de usar criatividade para resolver problema
+Sou estudante de **Ciência da Computação** e trabalho com tecnologia de forma prática, principalmente resolvendo problemas com **automação, planilhas, suporte técnico, organização de dados e desenvolvimento web**.
+
+Gosto de pegar processos bagunçados e transformar em algo mais claro, automatizado e funcional.
 
 ---
 
-## Tecnologias
+## Tecnologias que uso
 
 <div align="center"><br>
 
 <img align="center" alt="Python" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<img align="center" alt="Pandas" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
 <img align="center" alt="HTML" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 <img align="center" alt="JavaScript" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-<img align="center" alt="Flutter" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
-<img align="center" alt="Dart" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
-<img align="center" alt="FastAPI" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg">
 <img align="center" alt="Git" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 <img align="center" alt="GitHub" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
 <img align="center" alt="Windows" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
 <img align="center" alt="Linux" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
-<img align="center" alt="Arduino" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
 
 </div>
 
 ---
 
-## Projetos em destaque
+## O que eu faço na prática
+
+```txt
+Python       → automação, tratamento de dados, CSV, XLSX e scripts
+Pandas       → leitura, limpeza e comparação de planilhas
+HTML/CSS/JS  → interfaces web simples e funcionais
+Git/GitHub   → versionamento e organização de projetos
+Suporte TI   → manutenção, hardware, redes e organização de ambiente
+```
+
+---
+
+## Projetos
 
 <div align="center">
 
