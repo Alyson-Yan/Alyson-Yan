@@ -30,21 +30,6 @@ Gosto de resolver problemas reais, organizar processos bagunçados e transformar
 
 </div>
 
----
-
-## O que eu uso na prática
-
-```txt
-Python       -> automação, scripts e tratamento de dados
-Pandas       -> leitura, limpeza e comparação de planilhas
-HTML/CSS/JS  -> interfaces web simples e funcionais
-Git/GitHub   -> versionamento e organização de projetos
-Windows      -> suporte, manutenção e ambiente de trabalho
-Linux        -> estudos, servidores e testes
-```
-
----
-
 ## Projetos principais
 
 * [ConciliaFacil](https://github.com/Alyson-Yan/ConciliaFacil)
